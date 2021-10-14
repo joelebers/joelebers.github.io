@@ -6,9 +6,7 @@ modal-id: 1
 date: 2021-10-13
 img1: motorcycle.jpeg
 thumbnail: motorcycle.jpeg
-description1: This is my 1985 BMW R80 that I purchased back in 2018. At the time, I knew nothing about mechanics, cars, motorcycles ect. It was my senior year in college and I was in an internal combustions engines class. As a group roject for the class, a buddy and I rebuilt the top end of his dirtbike engine with some upgrades. This was my first glimpse into motorcycles and engines. After I graduated, I decided that I wanted a bike of my own to tinker with and ride. I was drawn to the cafe racer style that I had seen on the internet but as I looked into this further, I learned that mantra of this genre of motorcycles is "built not bought". In other words, if I wanted one of these cafe racers, I would have to build it myself. 
-
-Cafe racer is a term that has grown to capture many variations of custom motorcycles. To me, essence of it is to take an old, cheap, "donor" bike and give it a new lease on life. Make it faster. Make it lighter. Make it more reliable. Make it look good. 
+description1: This is my 1985 BMW R80 that I purchased back in 2018. At the time, I knew nothing about mechanics, cars, motorcycles ect. It was my senior year in college and I was in an internal combustions engines class. As a group roject for the class, a buddy and I rebuilt the top end of his dirtbike engine with some upgrades. This was my first glimpse into motorcycles and engines. After I graduated, I decided that I wanted a bike of my own to tinker with and ride. I was drawn to the cafe racer style that I had seen on the internet but as I looked into this further, I learned that mantra of this genre of motorcycles is "built not bought". In other words, if I wanted one of these cafe racers, I would have to build it myself. Cafe racer is a term that has grown to capture many variations of custom motorcycles. To me, essence of it is to take an old, cheap, "donor" bike and give it a new lease on life. Make it faster. Make it lighter. Make it more reliable. Make it look good. 
 img2: dreams.png
 description2: This is the second thing I want to say.
 
