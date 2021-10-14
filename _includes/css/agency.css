@@ -280,8 +280,8 @@ header {
 }
 
 header .intro-text {
-    padding-top: 500;
-    padding-bottom: 50;
+    padding-top: 100px;
+    padding-bottom: 50px;
 }
 
 header .intro-text .intro-lead-in {
@@ -303,8 +303,8 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 50px;
-        padding-bottom: 50px;
+        padding-top: 300px;
+        padding-bottom: 200px;
     }
 
     header .intro-text .intro-lead-in {
@@ -325,12 +325,7 @@ header .intro-text .intro-heading {
     }
 }
 
-@media screen and (min-width: 400px) {
-  header .intro-text {
-        padding-top: 1000px;
-        padding-bottom: 50px;
-    }
-}
+
 
 section {
     padding: 100px 0;
