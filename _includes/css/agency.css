@@ -303,7 +303,7 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 100px;
+        padding-top: 50px;
         padding-bottom: 50px;
     }
 
@@ -327,7 +327,7 @@ header .intro-text .intro-heading {
 
 @media screen and (min-width: 400px) {
   header .intro-text {
-        padding-top: 500px;
+        padding-top: 1000px;
         padding-bottom: 50px;
     }
 }
