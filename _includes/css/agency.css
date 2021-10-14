@@ -92,7 +92,7 @@ h6 {
 .open .dropdown-toggle.btn-primary {
     border-color: #{{ site.data.template.color.primary }};
     color: #f1f1f1;
-    background-color: #{{ site.data.template.color.secondary }};
+    background-color: #{{ site.data.template.color.primary }};
 }
 
 .btn-primary:active,
@@ -144,7 +144,7 @@ fieldset[disabled] .btn-primary.active {
 .open .dropdown-toggle.btn-xl {
     border-color: #{{ site.data.template.color.primary }};
     color: #f1f1f1;
-    background-color: #{{ site.data.template.color.secondary }};
+    background-color: #{{ site.data.template.color.primary }};
 }
 
 .btn-xl:active,
@@ -274,7 +274,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #f1f1f1;
+    color: #208;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/header-bg2.jpg');
     background-position: center center;
