@@ -279,7 +279,10 @@ header {
     -o-background-size: cover;
 }
 
-
+header .intro-text {
+    padding-top: 50;
+    padding-bottom: 50;
+}
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
@@ -300,7 +303,7 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 100px;
+        padding-top: 50px;
         padding-bottom: 50px;
     }
 
