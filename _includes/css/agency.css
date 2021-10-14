@@ -325,7 +325,7 @@ header .intro-text .intro-heading {
     }
 }
 
-@media(min-width:400px) {
+@media(min-width:200px) {
     header .intro-text {
         padding-top: 100px;
         padding-bottom: 300px;
