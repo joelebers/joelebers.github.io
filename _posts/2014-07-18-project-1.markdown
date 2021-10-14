@@ -7,7 +7,7 @@ date: 2021-10-13
 img1: motorcycle.jpeg
 thumbnail: motorcycle.jpeg
 description1: This is the first thing I want to say.
-img2: motorcycle.jpeg
+img2: dreams.png
 description2: This is the second thing I want to say.
 
 ---
