@@ -173,7 +173,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #f1f1f1;
+    background-color: #1e3d59;
 }
 
 .navbar-default .navbar-brand {
@@ -185,16 +185,16 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #{{ site.data.template.color.primary }};
+    color: #{{ site.data.template.color.secondary }};
 }
 
 .navbar-default .navbar-collapse {
-    border-color: #1e3d59;
+    border-color: transparent;
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #{{ site.data.template.color.primary }};
-    background-color: #{{ site.data.template.color.primary }};
+    border-color: transparent;
+    background-color: #{{ site.data.template.color.secondary }};
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -203,12 +203,12 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: #{{ site.data.template.color.secondary }};
 }
 
 .navbar-default .nav li a {
     text-transform: uppercase;
-    font-family: {{ site.data.template.font.primary }};
+    font-family: {{ site.data.template.font.secondary }};
     font-weight: 400;
     letter-spacing: 1px;
     color: #f1f1f1;
