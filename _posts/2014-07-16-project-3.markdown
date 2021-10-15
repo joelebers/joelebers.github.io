@@ -4,8 +4,8 @@ subtitle: Patent Pending
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: Rotary Gate Valve solid.JPG
-thumbnail: Rotary Gate Valve solid.JPG
+img: 
+thumbnail: 
 alt: 
 project-date: April 2014
 client: Start Bootstrap
