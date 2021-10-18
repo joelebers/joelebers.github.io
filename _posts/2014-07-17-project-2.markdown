@@ -4,8 +4,8 @@ subtitle: COVID Home Project
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: Laser Frame CAD.JPG
-thumbnail: Laser Frame CAD.JPG
+img: Laser open bed.jpg
+thumbnail: Laser open bed.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
