@@ -12,7 +12,7 @@ img2: R80 Before pic.jpg
 img3: R80 clear shot.jpg
 description2: This has been an ongoing project of mine since the day I bought it and I have done more to it than I can remember. Some of the notable changes made are as follows.Front suspension and brake upgrades from a modern sport bike.Rebuilt and refurbished engine. Everything checked to be within spec. Replaced all seals, and bearings, worn components.New body work to reduce weight and achieve the cafe racer look.Modernized electronics with LED lighting, Li-ion battery, solid-state relay, digital speedo, etc.Custom stainless steel exhaust designed and fabricated to reduce weight and achieve cafe racer look.Custom fabricated components through out. Foot pegs, brackets, license plate mount, seat pan, etc.
 img4: R80 on bike collage vertical.jpg
-description3: This is the third thing I want to say.
+description3: 
 img5: R80 process collage.jpg
 img6: R80 exhaust collage.jpg
 
