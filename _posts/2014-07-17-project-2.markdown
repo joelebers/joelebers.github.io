@@ -6,7 +6,7 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 img: Laser mirror 3.jpg
-thumbnail: Laser open bed.jpg
+thumbnail: Laser mirror 3.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
