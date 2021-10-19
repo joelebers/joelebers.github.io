@@ -12,7 +12,7 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 img1: Laser open bed.jpg
-description1: This is what happens when a couple of engineers are stuck at home for a while. Back when the stay at home order was in place here in Seattle, my wife, Megan Ebers and I started a project on our living room floor to keep ourselves sane. Five months and countless mistakes later, we are very proud to have finished our homemade laser cutter. It lives in our garage now because as you can see, it’s a monster. We constructed it out of 80/20 to keep it modular. It’s sporting an 80W CO2 laser with a series of three mirrors on a gantry system to direct the beam.
+description1: This is what happens when a couple of engineers are stuck at home for a while. Back when the stay at home order was in place here in Seattle, my wife Megan and I started a project on our living room floor to keep ourselves sane. Five months and countless mistakes later, we are very proud to have finished our homemade laser cutter. It lives in our garage now because as you can see, it’s a monster. We constructed it out of 80/20 to keep it modular. It’s sporting an 80W CO2 laser with a series of three mirrors on a gantry system to direct the beam.
 img2: Laser gantry view.jpg
 img3: Laser progress collage.jpg
 
