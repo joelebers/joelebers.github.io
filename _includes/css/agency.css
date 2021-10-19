@@ -888,6 +888,10 @@ img::-moz-selection {
     background: 0 0;
 }
 
+img[src=""] {
+    display: none;
+}
+
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
