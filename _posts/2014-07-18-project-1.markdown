@@ -7,7 +7,7 @@ date: 2021-10-13
 skills-used: Skills Used - Auto-Mechanics, TIG welding, Machining, Electrical Wiring, Design
 img1: R80 Just the bike.JPG
 thumbnail: motorcycle.jpeg
-description1: This is my 1985 BMW R80 that I purchased back in 2018. At the time, I knew nothing about mechanics, cars, motorcycles ect. It was my senior year in college and I was in an internal combustions engines class. As a group project for the class, a friend and I rebuilt the top end of his dirtbike engine with some upgrades. This was my first glimpse into motorcycles and engines. After I graduated, I decided that I wanted a bike of my own to tinker with and ride. I was drawn to the cafe racer style that I had seen on the internet but as I looked into this further, I learned that the mantra of this genre of motorcycles is "built not bought". In other words, if I wanted one of these, I would have to build it myself. Cafe racer is a term that has grown to capture many variations of custom motorcycles. To me, the essence of it is to take an old, cheap, "donor" bike and give it a new lease on life. Make it faster. Make it lighter. Make it more reliable. Make it look good. 
+description1: This is my 1985 BMW R80 that I purchased back in 2018. At the time, I knew nothing about mechanics, cars, motorcycles etc. It was my senior year in college, and I was in an internal combustions engines class. As a group project for the class, a friend and I rebuilt the top end of his dirt bike engine with some upgrades. This was my first glimpse into motorcycles and engines. After I graduated, I decided that I wanted a bike of my own to tinker with and ride. I was drawn to the cafe racer style that I had seen on the internet but as I looked into this further, I learned that the mantra of this genre of motorcycles is "built not bought". In other words, if I wanted one of these, I would have to build it myself. Cafe racer is a term that has grown to capture many variations of custom motorcycles. To me, the essence of it is to take an old, cheap, "donor" bike and give it a new lease on life. Make it faster. Make it lighter. Make it more reliable. Make it look good. 
 img2: R80 Before pic.jpg
 img3: R80 clear shot.jpg
 description2: This has been an ongoing project of mine since the day I bought it and I have done more to it than I can remember. Some of the notable changes made are as follows.
@@ -15,8 +15,8 @@ description3: Front suspension and brake upgrades from a modern sport bike.
 description4: Rebuilt and refurbished engine. Everything checked to be within spec. Replaced all seals, bearings, and worn components.
 description5: New body work to reduce weight and achieve the cafe racer look.
 description6: Modernized electronics with LED lighting, Li-ion battery, solid-state relay, digital speedo, etc.
-description7: Custom stainless steel exhaust designed and fabricated to reduce weight and achieve cafe racer look.
-description8: Custom fabricated components through out. Foot pegs, brackets, license plate mount, seat pan, etc.
+description7: Custom stainless-steel exhaust designed and fabricated to reduce weight and achieve cafe racer look.
+description8: Custom fabricated components throughout. Foot pegs, brackets, license plate mount, seat pan, etc.
 img4: R80 on bike collage vertical.jpg 
 img5: R80 process collage.jpg
 img6: R80 exhaust collage vertical.jpg
