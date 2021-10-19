@@ -5,8 +5,10 @@ skills-used:
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: Valve blurred thumbnail.JPG
-thumbnail: Valve blurred thumbnail.JPG 
+img1: Valve blurred thumbnail.JPG
+thumbnail: Valve blurred thumbnail.JPG
+img2: Valve blurred content.JPG
+description1: This
 alt: 
 project-date: April 2014
 client: Start Bootstrap
