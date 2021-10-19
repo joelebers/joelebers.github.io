@@ -1,6 +1,7 @@
 ---
 title: 1985 BMW R80
 subtitle: Cafe Racer
+skills-used:
 layout: default
 modal-id: 1
 date: 2021-10-13
