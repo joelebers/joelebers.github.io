@@ -14,7 +14,7 @@ description2: This has been an ongoing project of mine since the day I bought it
 img4: R80 Unfinished bike on stand.JPG
 description3: This is the third thing I want to say.
 img5: R80 process collage.jpg
-img6: R80 exhaust collage vertical.jpg
+img6: R80 exhaust collage.jpg
 img7: R80 on bike collage vertical.jpg
 
 ---
