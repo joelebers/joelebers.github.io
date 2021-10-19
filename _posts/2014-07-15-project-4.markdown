@@ -1,12 +1,12 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Miscellaneous CAD
+subtitle: Just For Fun 
 skills-used:
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: CAD YETI.JPG
+thumbnail: CAD YETI.JPG
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
