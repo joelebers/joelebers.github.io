@@ -14,6 +14,6 @@ description2: This has been an ongoing project of mine since the day I bought it
 img4: R80 on bike collage vertical.jpg
 description3: 
 img5: R80 process collage.jpg
-img6: R80 exhaust collage.jpg
+img6: R80 exhaust collage vertical.jpg
 
 ---
