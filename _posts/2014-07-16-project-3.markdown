@@ -1,7 +1,7 @@
 ---
 title: Rotary Valve Concept
 subtitle: Patent Pending
-skills-used:Skills Used - CAD, Concept Development, Market Research, Rapid Prototyping, CFD
+skills-used: Skills Used - CAD, Concept Development, Market Research, Rapid Prototyping, CFD
 layout: default
 modal-id: 3
 date: 2014-07-16
