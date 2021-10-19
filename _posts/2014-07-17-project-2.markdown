@@ -1,7 +1,7 @@
 ---
 title: LASER CUTTER
 subtitle: COVID Home Project
-skills-used: Skills Used - CAD, rapid prototyping, machining, electrical wiring, 3D printing, laser cutting
+skills-used: Skills Used - CAD, machine design, rapid prototyping, machining, electrical wiring, 3D printing, laser cutting
 layout: default
 modal-id: 2
 date: 2014-07-17
