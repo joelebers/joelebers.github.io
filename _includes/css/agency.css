@@ -893,5 +893,5 @@ img[src=""] {
 }
 
 body {
-    webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+    webkit-tap-highlight-color: #{{ site.data.template.color.secondary }};
 }
