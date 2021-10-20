@@ -7,8 +7,8 @@ date: 2014-07-14
 thumbnail: OLD carbon fiber board.jpg
 alt: image-alt
 project-date: April 2014
-img1: OLD carbon fiber board.jpg
-description1: 
+img1:
+description1:  In progress - more coming soon!
 img2: 
 description2: 
 
