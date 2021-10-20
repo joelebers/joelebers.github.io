@@ -7,8 +7,8 @@ date: 2014-07-14
 thumbnail: CCV EOL Tester.jpg
 alt: image-alt
 project-date: April 2014
-img1: CCV EOL Tester.jpg
-description1: 
+img1: 
+description1: In progress - more coming soon!
 img2: 
 description2: 
 
