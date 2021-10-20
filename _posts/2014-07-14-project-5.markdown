@@ -8,7 +8,7 @@ thumbnail: CCV EOL Tester.jpg
 alt: image-alt
 project-date: April 2014
 img1: CCV Lid Press.PNG
-description1: DISCLAIMER - this is not my CAD work. The machines in these images were designed to my specification by <a href="https://www.solvis.us/" style="color: #{{ site.data.template.color.primary }};" target="_blank">SolVIS Automation</a>. If you are looking for a company to partner with on automation solutions, I highly reccomend them!   
+description1: DISCLAIMER - this is not my CAD work. The machines in these images were designed to my specification by <a href="https://www.solvis.us/" style="color: #1e3d59;" target="_blank">SolVIS Automation</a>. If you are looking for a company to partner with on automation solutions, I highly reccomend them!   
 img2: ELAM Orifice Press.png
 description2: In a previous role, I worked closely with suppliers to design and manufacture assembly equipment for a variety of commercial vehicle products. It was my responsibility do design the theory of operation behind these machines and ensure that our products would be assembled correctly, consistently, and within specified tolerances. One of my favorite parts of this process was trying to figure out poka yokes - or ensuring that the product couldn't be assembled the wrong way even if you tried. This can be as simple as adding a physical feature to prevent loading the part into the machine incorrectly or as complex as adding laser or camera sensors to detect missing components that will lock the machine until it is properly loaded. In this role I was part of our NPI teams and gave manufacturing input on product designs. I gained first-hand experience on design for manufacturing (DFM) and design for assembly (DFA). 
 img3: CCV EOL Tester.PNG
