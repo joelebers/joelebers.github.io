@@ -4,14 +4,12 @@ subtitle:
 layout: default
 modal-id: 6
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+thumbnail: OLD carbon fiber board.jpg
 alt: image-alt
 project-date: April 2014
-img1: 
-description1: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+img1: OLD carbon fiber board.jpg
+description1: 
 img2: 
-description2: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description2: 
 
 ---
