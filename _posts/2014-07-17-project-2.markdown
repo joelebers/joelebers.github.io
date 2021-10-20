@@ -1,5 +1,5 @@
 ---
-title: LASER CUTTER
+title: Laser Cutter
 subtitle: COVID Home Project
 skills-used: Skills Used - CAD, machine design, rapid prototyping, machining, electrical wiring, 3D printing, laser cutting
 layout: default
