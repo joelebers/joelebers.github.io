@@ -1,1 +1,17 @@
+---
+title: Oldies but Goodies
+subtitle:  
+skills-used:
+layout: default
+modal-id: 5
+date: 
+img: 
+thumbnail: 
+alt: image-alt
+project-date: 
+img1: 
+description1: 
+img2: 
+description2: 
 
+---
