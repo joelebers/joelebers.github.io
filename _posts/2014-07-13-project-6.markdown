@@ -1,6 +1,6 @@
 ---
 title: Oldies but Goodies
-subtitle: 
+subtitle: High School Era
 layout: default
 modal-id: 6
 date: 2014-07-14
@@ -8,8 +8,11 @@ thumbnail: OLD carbon fiber board.jpg
 alt: image-alt
 project-date: April 2014
 img1:
-description1:  In progress - more coming soon!
+description1:  In high school, one of my passions was building longboards. I started by laminating plys of maple together in a contoured press to achieve concavity in the profile and increase the strength of the boards. I experimented with this a lot and made upwards of 15 of these, selling and gifting them to friends as I went. I also experimented with other methods like reinforced hardwoods cut out and engraved with a CNC router. I even constructed a couple with a foam core sandiwiched between carbon fiber layups.
 img2: 
+img3: 
+img4: 
+img5: 
 description2: 
 
 ---
