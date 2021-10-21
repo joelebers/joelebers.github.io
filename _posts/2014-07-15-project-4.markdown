@@ -12,7 +12,9 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-img1: CAD YETI collage.jpg
-img2: R80 Exhaust Design.JPG
+img1: CAD helmet collage.JPG
+description1: This is a work in progress but I set out to model this helmet for surface modeling practice. 
+img2: CAD YETI collage.jpg
+img3: R80 Exhaust Design.JPG
 
 ---
