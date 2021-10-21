@@ -14,10 +14,9 @@ category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 img1: CAD helmet collage.JPG
 description1: This is a work in progress but I set out to model this helmet for surface modeling practice. 
-img2: CAD YETI.jpg
-img3: CAD YETI exploded.JPG
-description3: This is a recreation of my YETI coffee mug.
-img4: R80 Exhaust Design.JPG
-description4: This is a model of my custom motorcycle exhaust that I fabricated from stainless steel. 
+img2: CAD YETI collage.jpg
+description2: This is a recreation of my YETI coffee mug.
+img3: R80 Exhaust Design.JPG
+description3: This is a model of my custom motorcycle exhaust that I fabricated from stainless steel. 
 
 ---
