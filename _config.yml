@@ -1,6 +1,7 @@
 url: https://joelebers.github.io
-#baseurl: /agency-jekyll-theme/
-
+plugins:
+  - jekyll-sitemap
+  
 # Site settings
 title: Joel Ebers
 email: joelebers1@gmail.com
