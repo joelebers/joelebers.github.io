@@ -12,7 +12,7 @@ client: Start Bootstrap
 category: Web Development
 img1: CAD 3Dconnexion collage.jpg
 description1:
-img2:CAD 3Dconnexion2.jpg
+img2: CAD 3Dconnexion2.jpg
 description2: To showcase my surface modeling capabilities, I recreated the 3D mouse I use for CAD modeling. 
 img3: CAD helmet collage.JPG
 description3: I wanted to model this helmet for surface modeling practice. 
