@@ -5,18 +5,19 @@ skills-used: More to come!
 layout: default
 modal-id: 4
 date: 2014-07-15
-thumbnail: CAD 3D Connexion thumbnail.JPG
+thumbnail: 3Dconnexion thumbnail.JPG
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-img1: CAD 3D Connexion collage.png
-description1: To showcase my surface modeling capabilities, I recreated the 3D mouse I use for CAD modeling. 
-img2: CAD helmet collage.JPG
-description2: I wanted to model this helmet for surface modeling practice. 
-img3: CAD YETI collage.jpg
-description3: This is a recreation of my YETI coffee mug.
-img4: R80 Exhaust Design.JPG
-description4: This is a model of my custom motorcycle exhaust that I fabricated from stainless steel. 
+img1: CAD 3Dconnexion collage.jpg
+img2:CAD 3Dconnexion2.jpg
+description2: To showcase my surface modeling capabilities, I recreated the 3D mouse I use for CAD modeling. 
+img3: CAD helmet collage.JPG
+description3: I wanted to model this helmet for surface modeling practice. 
+img4: CAD YETI collage.jpg
+description4: This is a recreation of my YETI coffee mug.
+img5: R80 Exhaust Design.JPG
+description5: This is a model of my custom motorcycle exhaust that I fabricated from stainless steel. 
 
 ---
