@@ -3,7 +3,7 @@ title: Miscellaneous CAD
 subtitle: Just For Fun 
 skills-used: More to come!
 layout: default
-modal-id: 4
+modal-id: 2
 date: 2014-07-15
 thumbnail: 3Dconnexion thumbnail.JPG
 alt: image-alt
