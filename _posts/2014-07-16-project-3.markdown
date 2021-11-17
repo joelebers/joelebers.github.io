@@ -2,7 +2,7 @@
 title: 1985 BMW R80
 subtitle: Cafe Racer
 layout: default
-modal-id: 1
+modal-id: 3
 date: 2021-10-13
 skills-used: Skills Used - Auto-Mechanics, TIG welding, Machining, Electrical Wiring, Design
 img1: R80 Just the bike.JPG
