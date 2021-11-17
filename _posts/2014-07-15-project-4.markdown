@@ -9,10 +9,5 @@ img1: Valve blurred thumbnail.JPG
 thumbnail: Valve blurred thumbnail.JPG
 img2:
 description1: Due to confidentiality, I cannot share detailed images or descriptions. This is a project that I have been working on at my job. It is a valve that my team and I are developing to improve the thermal management systems of battery electric commercial vehicles. In our market research, we found that many of the common problems with existing systems is that the components available on the market are often inadequate and only rated for passenger car applications. Additionally, there are only a handful of valve configurations available, mostly in 2 and 3-way varieties. One of the ways that OEMs are increasing system efficiency is through multi-mode thermal management systems. Specific modes are used for specific operating conditions to maximize the efficiency. These different modes can be achieved by routing coolant throughout different circuits in the system to more effectively utilize available heat energy. As thermal management systems become more complex to squeeze more efficiency out of the vehicle, the valving becomes more complex with it. A system might end up with a large number of valves and the hoses and electrical connections that come with it. This is not only expensive but space consuming. We are working to develop a valve manifold solution that is capable of wrapping all that system complexity in a single package. The design is modular and can accommodate for a plurality of ports with many configurations available. 
-alt: 
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
