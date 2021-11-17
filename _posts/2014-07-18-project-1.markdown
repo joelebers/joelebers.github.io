@@ -4,7 +4,7 @@ subtitle: COVID Home Project
 skills-used: Skills Used - CAD, machine design, rapid prototyping, machining, electrical wiring, 3D printing, laser cutting
 layout: default
 modal-id: 1
-date: 2014-07-17
+date: 2014-07-18
 img: Laser mirror 3.jpg
 thumbnail: Laser mirror 3.jpg
 alt: image-alt
