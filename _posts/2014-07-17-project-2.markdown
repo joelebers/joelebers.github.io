@@ -4,7 +4,7 @@ subtitle: Just For Fun
 skills-used: More to come!
 layout: default
 modal-id: 2
-date: 2014-07-15
+date: 2014-07-17
 thumbnail: 3Dconnexion thumbnail.JPG
 alt: image-alt
 project-date: April 2014
