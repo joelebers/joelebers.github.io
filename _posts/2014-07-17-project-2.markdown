@@ -1,0 +1,19 @@
+---
+title: Miscellaneous CAD
+subtitle: Just For Fun 
+skills-used: More to come!
+layout: default
+modal-id: 2
+date: 2014-07-17
+thumbnail: 3Dconnexion thumbnail.JPG
+alt: image-alt
+img1: CAD 3Dconnexion collage.jpg
+description1:
+img2: CAD 3Dconnexion2.jpg
+description2: To showcase my surface modeling capabilities, I recreated the 3D mouse I use for CAD modeling. 
+img3: CAD helmet collage.JPG
+description3: I wanted to model this helmet for surface modeling practice. 
+img4: CAD YETI collage.jpg
+description4: This is a recreation of my YETI coffee mug.
+
+---
